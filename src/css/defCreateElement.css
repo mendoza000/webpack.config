@@ -1,0 +1,8 @@
+.title{
+	color: tomato;
+	font-size: 2em;
+	font-family: sans-serif;
+}
+.border{
+	border-bottom: 2px solid skyblue;
+}
